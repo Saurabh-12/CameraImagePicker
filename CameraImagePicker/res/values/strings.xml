@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">CameraImagePicker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ImagePicker</string>
+    
+      <string name="welcome">Welcome on ImagePickerWizard</string>
+      <string name="camera">ClickCamera</string>
+      <string name="grid">Gallery</string>
+      
+     <string name="img_description">Image Description</string>
+    <string name="img_original_description">Original Image Description</string>
+
+</resources>
